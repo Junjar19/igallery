@@ -77,7 +77,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![OUTPUT](./myproject/myapp/static/img/output1.png)
-![OUTPUT](./myproject/myapp/static/img/output2.png)
+![image](https://github.com/user-attachments/assets/f4dc155b-ad10-4f08-9e21-9960de419e1e)
+![image](https://github.com/user-attachments/assets/4b16ccb8-e325-40d7-97b6-49ea3f5542d4)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
